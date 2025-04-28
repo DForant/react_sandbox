@@ -1,0 +1,3 @@
+export const REMOVE_PERSON = 'REMOVE_PERSON'
+export const RESET_PEOPLE = 'RESET_PEOPLE'
+export const CLEAR_PEOPLE = 'CLEAR_PEOPLE'
